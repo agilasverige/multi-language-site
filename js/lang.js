@@ -44,12 +44,12 @@ const langArr = {
 
     "homeTxt1": {
         "sv": "Agila Sverige är en konferens för alla som är intresserade av agila metoder och vill lära sig mer om hur man gör systemutveckling effektivare, roligare och mer värdeskapande.",
-        "en": "Agila Sverige is a conference for everyone who is interested in agile methods and wants to learn more about how to make system development more efficient, fun and more value-creating.",
+        "en": "Agila Sverige is a conference for everyone interested in agile methodologies and how to make software development - and other lines of work - more efficient and more fun while creating more value.",
         "uk": "Agila Sverige — це конференція для всіх, хто цікавиться гнучкими методами та хоче дізнатися більше про те, як зробити розробку системи ефективнішою, цікавішою та більш корисною.",
     },
     "homeTxt2": {
-        "sv": " Här skapar vi under två dagar en mötesplats där deltagarna samlas för att utbyta erfarenheter, kunskaper och idéer med varandra. Du kan komma till Agila Sverige som nybörjare eller erfaren, som programmerare eller chef. Det enda de andra konferensdeltagarna förväntar sig är att du beredd att dela med dina erfarenheter.",
-        "en": "Here, for two days, we create a meeting place where the participants gather to exchange experiences, knowledge and ideas with each other. You can come to Agila Sverige as a beginner or experienced, as a programmer or manager. The only thing the other conference participants expect is that you are prepared to share your experiences.",
+        "sv": "Här skapar vi under två dagar en mötesplats där deltagarna samlas för att utbyta erfarenheter, kunskaper och idéer med varandra. Du kan komma till Agila Sverige som nybörjare eller erfaren, som programmerare eller chef. Det enda de andra konferensdeltagarna förväntar sig är att du beredd att dela med dig av dina erfarenheter.",
+        "en": "During two days we create a meeting place where the participants gather to exchange experiences, knowledge and ideas with each other. Beginners are just as welcome as experienced agile practitioners. Developer, agile coach or manager doesn’t matter. The only thing expected from you is that you’re ready to share your thoughts and experience with others.",
         "uk": " Тут протягом двох днів ми створюємо місце зустрічі, де учасники збираються для обміну досвідом, знаннями та ідеями один з одним. Ви можете приїхати в Agila Sverige як новачок або досвідчений, як програміст або менеджер. Єдине, на що очікують інші учасники конференції, це те, що ви готові поділитися своїм досвідом.",
     },
     "nextTxt11": {
