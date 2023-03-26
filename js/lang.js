@@ -54,42 +54,42 @@ const langArr = {
     },
     "nextTxt11": {
         "sv": "Den 25-26 maj är det dags för vårens konferens på 7A Odenplan. Precis som vanligt kommer programmet att bestå av en blandning av blixttal, workshops och Open Space, med högt fokus på samtal och interaktivitet. I år har vi även två nyheter:",
-        "en": "May 25-26 is the time for the spring conference at 7A Odenplan. As usual, the program will consist of a mixture of lightning talks, workshops and Open Space, with a high focus on conversation and interactivity. This year we also have two novelties:",
+        "en": "On May 25-26 our traditional spring conference will take place at 7A Odenplan. As usual, we’ll offer a mix of lightning talks, workshops and open space sessions, with a focus on conversations and interactivity. This year we’ll also try out two brand new things:",
         "uk": "25-26 травня – весняна конференція на Odenplan, 7А. Як завжди, програма складатиметься з блискавичних доповідей, майстер-класів і Open Space, з великим акцентом на розмови та інтерактивності. Цього року у нас також дві новинки:",
     },
     "nextSpan11": {
-        "sv": " Ett temaspår, “Agilists for future”. Därför välkomnar vi särskilt bidrag som anknyter till",
+        "sv": " A theme track, “Agilists for Future”. We’ll dedicate a part of the agenda to talks related to the ",
         "en": " A theme track, 'Agilists for future'. Therefore, we especially welcome contributions related to",
         "uk": " Тематичний трек «Agilists for future». Тому ми особливо вітаємо внески, пов’язані iз",
     },
     "nextA11": {
         "sv": "FNs 17 mål",
-        "en": "The UN's 17 goals",
+        "en": "UN’s 17 Sustainable Development Goals",
         "uk": "17 цілями ООН",
     },
     "nextSpan12": {
         "sv": " för en hållbar framtid.",
-        "en": " for a sustainable future.",
+        "en": " . Curious about this?",
         "uk": " для міцного майбутнього.",
     },
     "nextA12": {
         "sv": "Mer info här!",
-        "en": "More info here!",
+        "en": "Read more here!",
         "uk": "Більше інформації тут!",
     },
     "nextLi11": {
         "sv": " Tvåspråkighet! Även du som inte är bekväm med svenska ska känna dig välkommen på konferensen. Därför välkomnar vi särskilt tal och workshops som hålls på engelska.",
-        "en": " Bilingualism! Even you who are not comfortable with Swedish should feel welcome at the conference. Therefore, we especially welcome speeches and workshops held in English.",
+        "en": " A bilingual conference. We’d like to welcome everyone in the Swedish Agile community, not only those who are comfortable with the Swedish language. This year’s program will contain sessions in Swedish and English.",
         "uk": " Двомовність! Навіть ви, хто не володіє шведською мовою, повинні відчувати себе бажаними на конференції. Тому ми особливо вітаємо виступи та семінари, які проводяться англійською мовою.",
     },
     "nextTtl21": {
-        "sv": " Biljettsläpp",
-        "en": "Ticket release",
+        "sv": "Biljettsläpp",
+        "en": "Tickets",
         "uk": "Випуск квитків",
     },
     "nextSpan21": {
         "sv": "Årets deltagarbiljetter gick åt på några få timmar. Missade du släppet? Då rekommenderar vi dig att hålla utkik på",
-        "en": "This year's participation tickets were sold out in a few hours. Did you miss the release? Then we recommend you to keep an eye out for",
+        "en": " Our first batch of regular tickets sold out in a few hours. Did you miss the release date? Then our recommendation is to follow us on",
         "uk": "Цьогорічні квитки на участь розкупили за кілька годин. Ви пропустили випуск? Тоді рекомендуємо вам стежити за",
     },
     "nextA21": {
@@ -99,22 +99,22 @@ const langArr = {
     },
     "nextSpan22": {
         "sv": " eller via vår",
-        "en": "or via our",
+        "en": " or sign up for our",
         "uk": "або за  нашою ",
     },
     "nextA22": {
         "sv": "mejllista",
-        "en": "email list",
+        "en": "newsletter",
         "uk": "розсилкою",
     },
     "nextSpan23": {
         "sv": " i andra halvan av april. Då kommer vi troligen att släppa ytterligare ett fåtal biljetter. Du är förstås också välkommen att hålla ett tal eller sponsra för att på så vis knipa en plats på konferensen.",
-        "en": "in the second half of April. Then we will probably release a few more tickets. You are of course also welcome to give a speech or sponsor in order to secure a place at the conference.",
+        "en": ". We will probably release a few more tickets in mid-late April. Or, you’re of course welcome to submit a talk proposal or have your company sponsor it to get hold of a free ticket.",
         "uk": "у другій половині квітня. Тоді, ймовірно, випустимо ще кілька квитків. Звичайно, ви також можете виступити з промовою або стати спонсором, щоб забезпечити собі місце на конференції.",
     }, 
      "nextTtl31": {
         "sv": " Talanmälan",
-        "en": "Speech report",
+        "en": "Call for Proposals",
         "uk": "Звіт про виступ",
     },
     "nextSpan31": {
@@ -124,12 +124,12 @@ const langArr = {
     },
     "nextA31": {
         "sv": "talanmälan",
-        "en": "speech report",
+        "en": "call for proposals",
         "uk": "звіт про виступ",
     },
     "nextSpan32": {
         "sv": " är öppen för förslag på blixttal och workshops fram till den 11 april. Därefter kommer arrangörskommittén att sätta ihop programmet med de bästa bidragen. I år välkomnar vi särskilt tal på temat “Agilists for future” och bidrag på engelska. Som antagen talare får du gratis inträde till hela konferensen, men vi garanterar inte plats till dig som skickat in ett bidrag som inte blir antaget.",
-        "en": "is open for proposals for lightning talks and workshops until April 11. After that, the organizing committee will put together the program with the best entries. This year we especially welcome speeches on the theme 'Agilists for future' and contributions in English. As an accepted speaker, you get free admission to the entire conference, but we do not guarantee a place for you who submitted a contribution that is not accepted.",
+        "en": " is open for lightning talk and workshop proposals until April 11. After the closing date, the organizers will put together a program from the best submissions. This year we’re extra keen on talks that fit into our Agilists for Future theme, and for talks and workshops held in English. If your talk or workshop is accepted to the program you’ll get free access to the entire event, but there is no guaranteed seat if your submission is not accepted.",
         "uk": "відкритий для пропозицій щодо блискавичних доповідей та майстер-класів до 11 квітня. Після цього оргкомітет складає програму з найкращих робіт. Цього року ми особливо вітаємо виступи на тему «Agilists for future» та доповіді англійською мовою. Як прийнятий доповідач ви отримуєте безкоштовний вхід на всю конференцію, але ми не гарантуємо місця для тих, хто подав внесок, який не було прийнято.",
     },
     "nextTtl41": {
@@ -139,17 +139,17 @@ const langArr = {
     },
     "nextSpan41": {
         "sv": "Självklart välkomnar vi nya sponsorer. ",
-        "en": "Of course we welcome new sponsors.",
+        "en": "We still have room for a few more sponsors. Please ",
         "uk": "Звичайно, ми раді новим спонсорам.",
     },
     "nextA41": {
         "sv": "Kontakta oss ",
-        "en": "Contact Us",
+        "en": "get in touch",
         "uk": "Зв'яжіться з нами",
     },
     "nextSpan42": {
         "sv": "om du är intresserad av att stödja konferensen och samtidigt synas med ditt företag för en agil publik. ",
-        "en": "if you are interested in supporting the conference and at the same time being visible with your company to an agile audience.",
+        "en": " if you’re interested in supporting the conference and strengthening your brand within the agile community.",
         "uk": "якщо ви зацікавлені в підтримці конференції та водночас  і вашу компанію побачитиме наша аудиторія.",
     },
     "nextTtl51": {
@@ -159,17 +159,17 @@ const langArr = {
     },
     "nextSpan51": {
         "sv": "Har du frågor, idéer, eller intresserad av att sponsra? ",
-        "en": "Do you have questions, ideas, or are you interested in sponsorship?",
+        "en": "All questions, feedback and ideas are welcome! ",
         "uk": "Маєте запитання, ідеї чи бажаєте стати спонсором?",
     },
     "nextA51": {
         "sv": "Hör gärna av dig!",
-        "en": "Please keep in touch!",
+        "en": "Get in touch with us!",
         "uk": "Будь ласка, залишайтеся на зв'язку!",
     },
     "prevSpan11": {
         "sv": " Nyfiken på tidigare års konferenser? Du hittar alla inspelade tal",
-        "en": "Curious about previous years' conferences? You will find all recorded numbers",
+        "en": "Curious about previous years' conferences? You will find all recorded talks",
         "uk": "Цікавитеся конференціями попередніх років? Ви знайдете всі записані номери",
     },
     "prevA11": {
@@ -184,22 +184,22 @@ const langArr = {
     }, 
      "prevSpan12": {
         "sv": ". Även programmen från tidigare år har vi sparat:",
-        "en": ". We have also saved the programs from previous years:",
+        "en": ". We have also kept the programs from previous years:",
         "uk": ". Ми також зберегли програми попередніх років:",
     },
     "contSpan11": {
-        "sv": " Vill du har nyheter om framtida konferenser och biljettsläpp? Då rekommenderar vi att du anmäler dig till vår",
-        "en": "Do you want  news about future conferences and ticket releases? Then we recommend that you register for ours",
+        "sv": " Vill du ha nyheter om framtida konferenser och biljettsläpp? Då rekommenderar vi att du anmäler dig till vår",
+        "en": "Do you want news about future conferences and ticket releases? Then we recommend you to sign up for our",
         "uk": "Бажаєте отримувати новини про майбутні конференції та випуск квитків? Тоді рекомендуємо вам підписатися на нашому сайті",
     }, 
     "contA11": {
         "sv": "mejllista. ",
-        "en": "email list.",
+        "en": "newsletter.",
         "uk": "на розсилку.",
     }, 
     "contSpan12": {
         "sv": "Du kan också följa oss på  ",
-        "en": "You can also follow us on",
+        "en": "You may also follow us on",
         "uk": "Ви також можете слідкувати за нами у",
     }, 
     "contA12": {
@@ -209,17 +209,17 @@ const langArr = {
     }, 
     "contSpan21": {
         "sv": "Vi har även en slack-community.",
-        "en": "We also have a slack-community.",
+        "en": "We also have a slack community.",
         "uk": "У нас також є  Slack-спільнота.",
     }, 
     "contA21": {
         "sv": "Här",
-        "en": "Here ",
+        "en": "Register here",
         "uk": "Тут",
     }, 
     "contSpan22": {
         "sv": " kan du anmäla dig så skickar vi en inbjudan.",
-        "en": "you can register and  we will send you an invitation. ",
+        "en": "to get an invitation sent to you. ",
         "uk": "ви можете зареєструватися, і ми надішлемо вам запрошення. ",
     }, 
     "contSpan31": {
