@@ -58,9 +58,9 @@ const langArr = {
         "uk": "25-26 травня – весняна конференція на Odenplan, 7А. Як завжди, програма складатиметься з блискавичних доповідей, майстер-класів і Open Space, з великим акцентом на розмови та інтерактивності. Цього року у нас також дві новинки:",
     },
     "nextSpan11": {
-        "sv": " A theme track, “Agilists for Future”. We’ll dedicate a part of the agenda to talks related to the ",
-        "en": " A theme track, 'Agilists for future'. Therefore, we especially welcome contributions related to",
-        "uk": " Тематичний трек «Agilists for future». Тому ми особливо вітаємо внески, пов’язані iз",
+        "sv": "Ett temaspår, “Agilists for Future”. Vi viger delar av agendan åt tal som anknyter till",
+        "en": "A theme track, 'Agilists for future'. We’ll dedicate a part of the agenda to talks related to the",
+        "uk": "Тематичний трек «Agilists for future». Тому ми особливо вітаємо внески, пов’язані iз",
     },
     "nextA11": {
         "sv": "FNs 17 mål",
