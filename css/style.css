@@ -48,7 +48,7 @@ body {
 
 /*HEADER START*/
 .header__top {
-    background: linear-gradient(grey, #272727);
+    background: linear-gradient(#505050, #272727);
 
 }
 
@@ -258,12 +258,12 @@ body {
 }
 
 .footer__top {
-    background: linear-gradient(#272727, grey);
+    background: linear-gradient(#272727, #505050);
     height: 200px;
 }
 
 .footer__bottom {
-    background-color: grey;
+    background-color: #505050;
     color: #fff;
     padding: 30px;
     text-align: center;
