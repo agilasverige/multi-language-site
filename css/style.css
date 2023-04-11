@@ -108,11 +108,16 @@ body {
 
 .menu__language {
     margin-left: 50px;
+    border-color: #272727;
+    border-radius: 4px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #272727;
 }
 
 .menu__language:hover {
 
-    border: 1px solid #ff1cc7;
+    border: 1px solid #fff;
 }
 
 .menu__btn {
