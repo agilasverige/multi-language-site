@@ -242,5 +242,10 @@ const langArr = {
         "sv": "Sponsorer 2023",
         "en": "Sponsors 2023",
         "uk": "Спонсори 2023",
+    },
+
+    "and": {
+        "sv": "och",
+        "en": "and",
     }
 }
